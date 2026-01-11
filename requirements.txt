@@ -5,4 +5,5 @@ pandas
 pyyaml
 pytest
 xarray
-cdsapi
+netcdf4
+dask

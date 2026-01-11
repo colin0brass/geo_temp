@@ -68,6 +68,8 @@ vis.plot_polar(title="Austin 2020 Noon Temps", save_file="output/austin_2020.png
 - pyyaml
 - pytest
 - xarray
+- netcdf4
+- dask
 
 Install with:
 
